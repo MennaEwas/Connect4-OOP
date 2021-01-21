@@ -1,0 +1,2 @@
+# Connect4
+  •	CSE-314 Assignment 1 •	Author: Mennatullah Abdelrahman •	ID: 120180009 •	Date: 6/12/2020 •	Topic: Connect4 Game  •	Disclaimer: I am Mennatullah and I disclaim that I've written all the source code on my own •	Time for the source code itself: around 4hrs •	Yes, it wasn’t easy I’ve spend a lot of time thinking about the methods, I’ve asked some of my colleagues, too and I’ve studied more than a new function. 
